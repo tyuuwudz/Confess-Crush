@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "chào cậu :3",
-    introTitle: '',
+    introTitle: 'Tyu dzai',
     introDesc: `Cậu là đám mây nhỏ
     Trên bầu trời thật to
     Nhưng cậu đừng có lo
